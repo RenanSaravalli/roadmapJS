@@ -1,0 +1,13 @@
+{
+    "empresa": {
+        "nome": "TechCorp",
+        "fundacao": 2005,
+        "ativos": true,
+        "funcionarios": [
+            {"nome": "Ana", "cargo": "Desenvolvedora", "idade": 38},
+            {"nome": "Cleber", "cargo": "Gerente", "idade": 50},
+            {"nome": "Robson", "cargo": "Designer", "idade": 18}
+        ]
+    }
+}
+

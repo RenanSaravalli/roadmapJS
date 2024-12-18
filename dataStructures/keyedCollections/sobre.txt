@@ -1,0 +1,3 @@
+Keyed Collections são estruturas de dados que armazenam valores associados a uma chave única 
+
+Essas coleções são úteis quando precisamos associar um valor a uma chave específica, tornando o acesso mais rápido e eficiente 
